@@ -16,8 +16,6 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 ---
 Top Contributer to complete all TODOs
 
-1. Spiderman (just sample)  [Link to Repo](https://www.youtube.com/@chaiaurcode)
-
 ---  COMPLETE ALL TODOS:  (https://github.com/Hedayat002/backend)
 ## How to contribute in this open source Project
 
